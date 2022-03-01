@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import 
+import Body from './landing_components/body.jsx';
 
 function App() {
   return (
     <main>
-      React⚛️ + Vite⚡ + Replit🌀
+      Body()
     </main>
   );
 }
