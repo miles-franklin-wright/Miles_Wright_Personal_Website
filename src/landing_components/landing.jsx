@@ -1,11 +1,12 @@
 import React from 'react';
 
-function Body() {
+
+function Landing() {
   return(
     <div>
-      yo
+      landing
     </div>
   )
 }
 
-export default Body;
+export default Landing;

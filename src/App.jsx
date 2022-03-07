@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Body from './landing_components/body.jsx';
+import Body from './body.jsx';
 
 function App() {
   return (
     <main>
-      Body()
+      <Body />
     </main>
   );
 }
