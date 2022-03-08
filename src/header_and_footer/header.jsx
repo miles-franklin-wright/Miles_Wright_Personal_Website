@@ -6,11 +6,12 @@ function Header() {
       header
       <div>Miles Franklin Wright</div>
       <ul>
+        // nice to meet you; im miles; 
         <li>Knowing Me</li>
         <li>
           What I Do
           <ul>
-            <li>Sustainable Development, Globally</li>
+            <li>International Relations and Sustainable Development</li>
             <li>Programming and Data Analysis</li>
             <li>Everything Else</li>
           </ul>
