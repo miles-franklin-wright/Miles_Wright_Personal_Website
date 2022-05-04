@@ -1,11 +1,14 @@
 import React from 'react';
 import './App.css';
-import Body from './body.jsx';
+import Components from './components/components.jsx';
+
 
 function App() {
   return (
     <main>
-      <Body />
+      <div>
+        <Components/>
+      </div>
     </main>
   );
 }

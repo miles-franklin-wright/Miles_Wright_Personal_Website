@@ -1,0 +1,47 @@
+.pattern-component {
+  background-color: grey;
+  height: 90vh;
+  width: 100vw;
+}
+
+.pattern-m {
+  width: 100px;
+  flex: row;
+}
+
+.pattern-1st-line-up {
+  display: inline-block;
+  background-color: black;
+  width: 1px;
+  height: 20px;
+  transform: rotate(45deg);
+  transform-origin: bottom;
+}
+
+.pattern-2nd-line-down {
+  display: inline-block;
+  background-color: black;
+  width: 1px;
+  height: 20px;
+  transform: rotate(-45deg);
+  transform-origin: top;
+}
+
+.pattern-3rd-line-up {
+  display: inline-block;
+  background-color: black;
+  width: 1px;
+  height: 20px;
+  transform: rotate(45deg);
+  transform-origin: bottom;
+}
+
+
+.pattern-4th-line-down {
+  display: inline-block;
+  background-color: black;
+  width: 1px;
+  height: 20px;
+  transform: rotate(-45deg);
+  transform-origin: top;
+}
