@@ -5,12 +5,14 @@
 }
 
 .pattern-m {
-  width: 100px;
-  flex: row;
+  display: grid;
+  gap: 0px;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  background: orange;
 }
 
 .pattern-1st-line-up {
-  display: inline-block;
   background-color: black;
   width: 1px;
   height: 20px;
@@ -19,7 +21,6 @@
 }
 
 .pattern-2nd-line-down {
-  display: inline-block;
   background-color: black;
   width: 1px;
   height: 20px;
@@ -28,7 +29,6 @@
 }
 
 .pattern-3rd-line-up {
-  display: inline-block;
   background-color: black;
   width: 1px;
   height: 20px;
@@ -38,7 +38,6 @@
 
 
 .pattern-4th-line-down {
-  display: inline-block;
   background-color: black;
   width: 1px;
   height: 20px;
