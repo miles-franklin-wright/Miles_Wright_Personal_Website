@@ -6,7 +6,7 @@ function Header() {
     <div class='header-parent'>
       <div>MFW</div>
       <div>Work</div>
-      <div>About</div>
+      <div>Find Me</div>
     </div>
   );
 }

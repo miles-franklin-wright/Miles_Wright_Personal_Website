@@ -9,7 +9,7 @@ function Footer() {
       <div>Most recent update: July 2022</div>
       <div>MFW</div>
       <div>Work</div>
-      <div>About</div>
+      <div>Find Me</div>
     </div>
   );
 }
