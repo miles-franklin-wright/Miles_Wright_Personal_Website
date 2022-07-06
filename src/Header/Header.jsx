@@ -1,10 +1,12 @@
 import React from 'react';
-
+import './Header.css';
 
 function Header() {
   return (
-    <div>
-      Header will be here
+    <div class='header-parent'>
+      <div>MFW</div>
+      <div>Work</div>
+      <div>About</div>
     </div>
   );
 }

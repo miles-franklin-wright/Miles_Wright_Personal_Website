@@ -1,9 +1,9 @@
 import React from 'react';
-
+import './Body.css';
 
 function Body() {
   return (
-    <div>
+    <div class='body-parent'>
       Body will be here
     </div>
   );
