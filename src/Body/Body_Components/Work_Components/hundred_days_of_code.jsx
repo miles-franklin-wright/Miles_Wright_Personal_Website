@@ -21,6 +21,9 @@ function Hundred_Days() {
         <h3>Day Two</h3>
         <h4>July 16th, 2022</h4>
         <p>Ok, my strategy for today is to try to meet my Day 5 goal, today. Once it's live, I know that github will automatically update the website based off of my pushes, or at least I hope it does. I have to check. Even if not, I can always make a habit of reloading the site with the most recent updates. So today I will do my research again on how to make that work, and then try to execute. Hopefully in less than an hour. We'll see!</p>
+        <p>
+          So I made some progress. In the past I have used github pages to deploy, and today is no different. However the previous method likely will not work in this case. I'll have to deploy to pages using the vite package that's used for Replit. It's good this process was started now instead of Day 5, or else I wouldn't have enought time to figure this out!
+        </p>
       </div>
     </div>
   );
