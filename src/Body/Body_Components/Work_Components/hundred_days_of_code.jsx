@@ -25,6 +25,13 @@ function Hundred_Days() {
           So I made some progress. In the past I have used github pages to deploy, and today is no different. However the previous method likely will not work in this case. I'll have to deploy to pages using the vite package that's used for Replit. It's good this process was started now instead of Day 5, or else I wouldn't have enought time to figure this out!
         </p>
       </div>
+      <div>
+        <h3>Day Three</h3>
+        <h4>July 17th, 2022</h4>
+        <p>
+          Today I made little progress. The main issue was with replit and github, because I was not able to execute certain commands. Instead, I think I have a new strategy that should work. Since the dist pushes are now possible thanks to editing the gitignore file, at the end of each day I can take the new dist build and manually add it to a gh-pages section of the directory, and update the pages that way. This is absolutely not ideal. However, until I reconfigure my desktop environment or start working with a different hosting system other than gh pages, it will just have to do. Additionally, time is a constraining factor. I can reasonably give more than an hour per day to this, often times I'll only be able to manage half an hour. This was an ok day of work, but I'll need to hit tasks faster if I want an ok website by Day 10. 
+        </p>
+      </div>
     </div>
   );
 }
