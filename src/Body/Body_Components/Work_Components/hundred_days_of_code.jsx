@@ -4,10 +4,10 @@ import React from 'react';
 function Hundred_Days() {
   return (
     <div>
-     <div>
-       <h1>Hundred Days of Code</h1>
-       <h2>My journey to full stack development</h2>
-     </div>
+      <div>
+        <h1>Hundred Days of Code</h1>
+        <h2>My journey to full stack development</h2>
+      </div>
       <div>
         <h3>Day One</h3>
         <h4>July 15th, 2022</h4>
@@ -29,7 +29,14 @@ function Hundred_Days() {
         <h3>Day Three</h3>
         <h4>July 17th, 2022</h4>
         <p>
-          Today I made little progress. The main issue was with replit and github, because I was not able to execute certain commands. Instead, I think I have a new strategy that should work. Since the dist pushes are now possible thanks to editing the gitignore file, at the end of each day I can take the new dist build and manually add it to a gh-pages section of the directory, and update the pages that way. This is absolutely not ideal. However, until I reconfigure my desktop environment or start working with a different hosting system other than gh pages, it will just have to do. Additionally, time is a constraining factor. I can reasonably give more than an hour per day to this, often times I'll only be able to manage half an hour. This was an ok day of work, but I'll need to hit tasks faster if I want an ok website by Day 10. 
+          Today I made little progress. The main issue was with replit and github, because I was not able to execute certain commands. Instead, I think I have a new strategy that should work. Since the dist pushes are now possible thanks to editing the gitignore file, at the end of each day I can take the new dist build and manually add it to a gh-pages section of the directory, and update the pages that way. This is absolutely not ideal. However, until I reconfigure my desktop environment or start working with a different hosting system other than gh pages, it will just have to do. Additionally, time is a constraining factor. I can reasonably give more than an hour per day to this, often times I'll only be able to manage half an hour. This was an ok day of work, but I'll need to hit tasks faster if I want an ok website by Day 10.
+        </p>
+      </div>
+      <div>
+        <h3>Day Four</h3>
+        <h4>July 18th, 2022</h4>
+        <p>
+          I had a really bad day all around today, and the solution I wanted of manually creating a distribution for github pages and the rest of that did not really work. I took some time to think about, if I want to get this up tomorrow, how would I do it? I realized that it might make sense to use Digital Ocean's App platform, and so I watched a video on how this could be done. I also wanted to continue to program in Replit, which I think I should be able to do with this method. Tomorrow I will watch the video that's out there on how that's done. Then, I will likely create a new GitHub repository and then work out of that repository. Or not. I need to write down the most logical plan to minimize errors (as errors are my big issue right now, not efficiency), and then go from there. Here's to sticking with it.
         </p>
       </div>
     </div>
