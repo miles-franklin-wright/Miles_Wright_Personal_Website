@@ -39,6 +39,20 @@ function Hundred_Days() {
           I had a really bad day all around today, and the solution I wanted of manually creating a distribution for github pages and the rest of that did not really work. I took some time to think about, if I want to get this up tomorrow, how would I do it? I realized that it might make sense to use Digital Ocean's App platform, and so I watched a video on how this could be done. I also wanted to continue to program in Replit, which I think I should be able to do with this method. Tomorrow I will watch the video that's out there on how that's done. Then, I will likely create a new GitHub repository and then work out of that repository. Or not. I need to write down the most logical plan to minimize errors (as errors are my big issue right now, not efficiency), and then go from there. Here's to sticking with it.
         </p>
       </div>
+      <div>
+        <h3>Day Four</h3>
+        <h4>July 18th, 2022</h4>
+        <p>
+          I had a really bad day all around today, and the solution I wanted of manually creating a distribution for github pages and the rest of that did not really work. I took some time to think about, if I want to get this up tomorrow, how would I do it? I realized that it might make sense to use Digital Ocean's App platform, and so I watched a video on how this could be done. I also wanted to continue to program in Replit, which I think I should be able to do with this method. Tomorrow I will watch the video that's out there on how that's done. Then, I will likely create a new GitHub repository and then work out of that repository. Or not. I need to write down the most logical plan to minimize errors (as errors are my big issue right now, not efficiency), and then go from there. Here's to sticking with it.
+        </p>
+      </div>
+      <div>
+        <h3>Day Five</h3>
+        <h4>July 19th, 2022</h4>
+        <p>
+          So today I was able to set up the digital ocean build, and it actually seems to be working pretty well. However there is an issue with my script which makes the build a blank page. However I only have to solve that by Day 10. So I don't need to get what's currently working actually up there. The important part is it's hosted and that the dist folder actually works. We'll work on it next time. 
+        </p>
+      </div>
     </div>
   );
 }
