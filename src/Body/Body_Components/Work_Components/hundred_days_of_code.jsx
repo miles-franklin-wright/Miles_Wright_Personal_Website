@@ -53,6 +53,13 @@ function Hundred_Days() {
           So today I was able to set up the digital ocean build, and it actually seems to be working pretty well. However there is an issue with my script which makes the build a blank page. However I only have to solve that by Day 10. So I don't need to get what's currently working actually up there. The important part is it's hosted and that the dist folder actually works. We'll work on it next time. 
         </p>
       </div>
+      <div>
+        <h3>Day Six</h3>
+        <h4>July 20th, 2022</h4>
+        <p>
+          Coding really is investigative, among its other attributes. I spent the past hour and a half trying to find the solution, and I do feel like I'm getting closer! I've begun to manipulate the problem a little bit, which means I'm trying the right spots. However, it's not fixed yet. Unfortunately, that's all I can do today. I'll work tomorrow again on this. I bet it will take me through Day 8, which means I'll only have two days to make my website presentable for the Day 10 deadline. Fingers crossed! I am doing this to challenge myself, and that's what I'm getting. On to tomorrow. 
+        </p>
+      </div>
     </div>
   );
 }
