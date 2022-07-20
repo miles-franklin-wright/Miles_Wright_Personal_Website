@@ -6,7 +6,7 @@ import Work from './Body_Components/Work.jsx';
 
 function Body() {
   return (
-    <div class='body-parent'>
+    <div id='body-parent'>
       Body will be here
       <Find_Me></Find_Me>
       <Landing></Landing>

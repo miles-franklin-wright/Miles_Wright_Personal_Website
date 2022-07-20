@@ -3,7 +3,7 @@ import './Header.css';
 
 function Header() {
   return (
-    <div class='header-parent'>
+    <div id='header-parent'>
       <div>MFW</div>
       <div>Work</div>
       <div>Find Me</div>

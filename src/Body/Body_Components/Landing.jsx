@@ -3,7 +3,7 @@ import React from 'react';
 
 function Landing() {
   return (
-    <div class='body-parent'>
+    <div id='body-parent'>
       Landing will be here
     </div>
   );
