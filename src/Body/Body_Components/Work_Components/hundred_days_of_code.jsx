@@ -60,6 +60,13 @@ function Hundred_Days() {
           Coding really is investigative, among its other attributes. I spent the past hour and a half trying to find the solution, and I do feel like I'm getting closer! I've begun to manipulate the problem a little bit, which means I'm trying the right spots. However, it's not fixed yet. Unfortunately, that's all I can do today. I'll work tomorrow again on this. I bet it will take me through Day 8, which means I'll only have two days to make my website presentable for the Day 10 deadline. Fingers crossed! I am doing this to challenge myself, and that's what I'm getting. On to tomorrow. 
         </p>
       </div>
+      <div>
+        <h3>Day Seven</h3>
+        <h4>July 21st, 2022</h4>
+        <p>
+          Ok I tried my best but to no avail today. I think the best solution, although certainly not ideal, would be to create a new branch where I can wipe everything and start a new create react app. I will save the source folder, then replace the old branch with the new one. I will create a production build of the new react app, and see if this displays on my website. If that all holds together, then I'll carefully incorporate some of the text and structure from this current version. There may be bumps along this road, but hopefully it'll go smoothly. We'll see. That's all for today.
+        </p>
+      </div>
     </div>
   );
 }
