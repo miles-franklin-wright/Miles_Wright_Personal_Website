@@ -50,14 +50,14 @@ function Hundred_Days() {
         <h3>Day Five</h3>
         <h4>July 19th, 2022</h4>
         <p>
-          So today I was able to set up the digital ocean build, and it actually seems to be working pretty well. However there is an issue with my script which makes the build a blank page. However I only have to solve that by Day 10. So I don't need to get what's currently working actually up there. The important part is it's hosted and that the dist folder actually works. We'll work on it next time. 
+          So today I was able to set up the digital ocean build, and it actually seems to be working pretty well. However there is an issue with my script which makes the build a blank page. However I only have to solve that by Day 10. So I don't need to get what's currently working actually up there. The important part is it's hosted and that the dist folder actually works. We'll work on it next time.
         </p>
       </div>
       <div>
         <h3>Day Six</h3>
         <h4>July 20th, 2022</h4>
         <p>
-          Coding really is investigative, among its other attributes. I spent the past hour and a half trying to find the solution, and I do feel like I'm getting closer! I've begun to manipulate the problem a little bit, which means I'm trying the right spots. However, it's not fixed yet. Unfortunately, that's all I can do today. I'll work tomorrow again on this. I bet it will take me through Day 8, which means I'll only have two days to make my website presentable for the Day 10 deadline. Fingers crossed! I am doing this to challenge myself, and that's what I'm getting. On to tomorrow. 
+          Coding really is investigative, among its other attributes. I spent the past hour and a half trying to find the solution, and I do feel like I'm getting closer! I've begun to manipulate the problem a little bit, which means I'm trying the right spots. However, it's not fixed yet. Unfortunately, that's all I can do today. I'll work tomorrow again on this. I bet it will take me through Day 8, which means I'll only have two days to make my website presentable for the Day 10 deadline. Fingers crossed! I am doing this to challenge myself, and that's what I'm getting. On to tomorrow.
         </p>
       </div>
       <div>
@@ -65,6 +65,13 @@ function Hundred_Days() {
         <h4>July 21st, 2022</h4>
         <p>
           Ok I tried my best but to no avail today. I think the best solution, although certainly not ideal, would be to create a new branch where I can wipe everything and start a new create react app. I will save the source folder, then replace the old branch with the new one. I will create a production build of the new react app, and see if this displays on my website. If that all holds together, then I'll carefully incorporate some of the text and structure from this current version. There may be bumps along this road, but hopefully it'll go smoothly. We'll see. That's all for today.
+        </p>
+      </div>
+      <div>
+        <h3>Day Eight</h3>
+        <h4>July 23rd, 2022</h4>
+        <p>
+          It seems like the normal create react app works. I created a new repository and digital ocean project to test if the digital ocean stuff worked. It did!! So this was a nice development, because it means there's just something wrong with this specifically. What I will do now is try to create a really barebones website structure in this new test website, including this content (as this is the only real content this one has). From there, once I'm able to consistently edit and build in that repository and digital ocean site, I'll figure out how to transfer all of that over to this main setup, and get this working. Baby steps. I can probably just create a new branch with the working code and then merge it while prioritizing the working one. Then I'll also get some github practice. I think day nine and ten will be 1. get the working site that is just slightly formatted, then day ten making the merge happen!
         </p>
       </div>
     </div>
